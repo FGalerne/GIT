@@ -8,3 +8,4 @@ Les étapes pour créer un nouveau commit :
 4. passer une instruction : git commit -am "modification apporter au fichier README" (par exemple)
 5. 
 Un peu long, j'ai plus rapide.
+Un peu rapide, j'ai plus long.
